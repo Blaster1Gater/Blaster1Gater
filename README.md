@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu perfil
 
-<!--
-**Blaster1Gater/Blaster1Gater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Kadu, um entusiasta de tecnologia, programação e sistemas operacionais! 🚀
 
-Here are some ideas to get you started:
+## 📊 Minhas Estatísticas
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Blaster1Gater&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="400">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaster1Gater&layout=compact&theme=radical" alt="Linguagens Mais Usadas" width="400">
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+## 🌱 O que estou aprendendo?
+- Aprofundando conhecimento em Java e Python.
+- Explorando programação com C++.
+- Dominando sistemas operacionais baseados em Linux.
