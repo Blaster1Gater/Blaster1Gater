@@ -14,6 +14,6 @@ Sou o Kadu, um entusiasta de tecnologia, programação e sistemas operacionais! 
 </p>
 
 ## 🌱 O que estou aprendendo?
-- Aprofundando conhecimento em Java e Python.
+- Aprofundando conhecimento em Python.
 - Explorando programação com C++.
 - Dominando sistemas operacionais baseados em Linux.
